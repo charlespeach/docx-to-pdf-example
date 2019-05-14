@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ffi (1.10.0)
+    libreconv (0.9.1)
+      spoon
+    spoon (0.0.6)
+      ffi
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  libreconv
+
+BUNDLED WITH
+   1.17.3
